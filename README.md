@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @morphy166
-- 👀 I’m interested in Cplusllus programming
+- 👀 I’m interested in Cpluspllus programming
 - 🌱 I’m currently learning C_plus_plus
 - 💞️ I’m looking to collaborate on algorithms 
-- 📫 How to reach me text me on +962779407251
+- 📫 How to reach me text me on +962775526960
 
 <!---
 aws10682/aws10682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
