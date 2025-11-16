@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morphy166
-- 👀 I’m interested in Cpluspllus programming
-- 🌱 I’m currently learning C_plus_plus
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C and Linux Mint Terminal
 - 💞️ I’m looking to collaborate on algorithms 
 - 📫 How to reach me text me on +962775526960
 
